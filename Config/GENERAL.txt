@@ -125,10 +125,10 @@ CONFIG_PACKAGE_docker-compose=y
 CONFIG_PACKAGE_dockerd=y
 CONFIG_PACKAGE_luci-lib-docker=y
 CONFIG_PACKAGE_adguardhome=y
-CONFIG_PACKAGE_udpxy=y
+
 
 #add luci packages
 CONFIG_PACKAGE_luci-app-dockerman=y
 CONFIG_PACKAGE_luci-app-adguardhome=y
 CONFIG_PACKAGE_luci-app-vlmcsd=y
-CONFIG_PACKAGE_luci-app-udpxy=y
+
