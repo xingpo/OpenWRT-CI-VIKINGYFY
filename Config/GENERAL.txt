@@ -111,3 +111,8 @@ CONFIG_PACKAGE_xz-utils=y
 #添加组件
 CONFIG_PACKAGE_luci-proto-wireguard=y
 
+#添加luci包
+CONFIG_PACKAGE_luci-app-mosdns=y
+CONFIG_PACKAGE_luci-app-adguardhome=y
+CONFIG_PACKAGE_luci-app-vlmcsd=y
+
